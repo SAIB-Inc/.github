@@ -1,4 +1,10 @@
+
+  
 # Welcome to SAIB Inc.
+
+![SAIB Inc.](/src/saib-inc.png)
+
+</p>
 
 ## About Us
 
@@ -15,5 +21,4 @@ Our goal: To leverage technology in crafting transformative solutions that drive
 
 - [Twitter](https://twitter.com/saibdev)
 - [Facebook](https://www.facebook.com/saibllc)
-
 
