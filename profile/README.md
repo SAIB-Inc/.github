@@ -1,5 +1,3 @@
-
-  
 # Welcome to SAIB Inc.
 
 ![SAIB Inc.](/src/saib-inc.png)
