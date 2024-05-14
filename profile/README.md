@@ -1,7 +1,9 @@
 # Welcome to SAIB Inc.
-
-![SAIB Inc.](/src/saib-inc.png)
-
+<p align="center">
+  <picture>
+    <source srcset="/src/dark.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/light.png" alt="SAIB Inc." width="300" height="159">
+  </picture>
 </p>
 
 ## About Us
