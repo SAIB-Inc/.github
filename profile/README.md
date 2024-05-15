@@ -29,3 +29,5 @@ Our goal: To leverage technology in crafting transformative solutions that drive
 - <a href="https://demeter.run/" target="_blank">Demeter</a>
 - <a href="https://coinecta.fi/" target="_blank">Coinecta</a>
 - <a href="https://beta.crashr.io/about" target="_blank">Crashr</a>
+
+
