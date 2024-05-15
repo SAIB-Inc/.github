@@ -19,13 +19,13 @@ Our goal: To leverage technology in crafting transformative solutions that drive
 
 ## Follow Us
 
-- [Twitter](https://twitter.com/saibdev)
-- [Facebook](https://www.facebook.com/saibllc)
+- <a href="https://twitter.com/saibdev" target="_blank">Twitter</a>
+- <a href="https://www.facebook.com/saibllc" target="_blank">Facebook</a>
 
 ## Building with
 
-- [TxPipe](https://txpipe.io/)
-- [UTxoRPC](https://utxorpc.org/)
-- [Demeter](https://demeter.run/)
-- [Coinecta](https://coinecta.fi/)
-- [Crashr](https://beta.crashr.io/about)
+- <a href="https://txpipe.io/" target="_blank">TxPipe</a>
+- <a href="https://utxorpc.org/" target="_blank">UTxoRPC</a>
+- <a href="https://demeter.run/" target="_blank">Demeter</a>
+- <a href="https://coinecta.fi/" target="_blank">Coinecta</a>
+- <a href="https://beta.crashr.io/about" target="_blank">Crashr</a>
