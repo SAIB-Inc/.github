@@ -30,31 +30,37 @@ Our goal: To leverage technology in crafting transformative solutions that drive
       <a href="https://txpipe.io/">
         <img src="/src/txpipe.webp" alt="TxPipe" style="width:100px;">
       </a>
-      <br>
-      <a href="https://txpipe.io/" style="text-decoration: none; color: inherit;">
-        <span style="display: inline-block; margin-top: 10px;">TxPipe</span>
-      </a>
     </td>
     <td align="center" width="200" style="border: none;">
       <a href="https://coinecta.fi/">
         <img src="/src/coinecta.webp" alt="Coinecta" style="width:100px;">
-      </a>
-      <br>
-      <a href="https://coinecta.fi/" style="text-decoration: none; color: inherit;">
-        <span style="display: inline-block; margin-top: 10px;">Coinecta</span>
       </a>
     </td>
     <td align="center" width="200" style="border: none;">
       <a href="https://beta.crashr.io/about">
         <img src="/src/crashr-v2.svg" alt="Crashr" style="width:100px;">
       </a>
-      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200" style="border: none;">
+      <a href="https://txpipe.io/" style="text-decoration: none; color: inherit;">
+        TxPipe
+      </a>
+    </td>
+    <td align="center" width="200" style="border: none;">
+      <a href="https://coinecta.fi/" style="text-decoration: none; color: inherit;">
+        Coinecta
+      </a>
+    </td>
+    <td align="center" width="200" style="border: none;">
       <a href="https://beta.crashr.io/about" style="text-decoration: none; color: inherit;">
-        <span style="display: inline-block; margin-top: 10px;">Crashr</span>
+        Crashr
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
