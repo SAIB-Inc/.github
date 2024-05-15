@@ -24,19 +24,41 @@ Our goal: To leverage technology in crafting transformative solutions that drive
 
 ## Building with
 
-<p align="center">
-  <a href="https://txpipe.io/">
-    <img src="/src/txpipe.webp" alt="TxPipe" width="100" style="margin-right: 20px;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-  <a href="https://coinecta.fi/">
-    <img src="/src/coinecta.webp" alt="Coinecta" width="70" style="margin-right: 20px;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  
-  <a href="https://beta.crashr.io/about">
-    <img src="/src/crashr-v2.svg" alt="Crashr" width="65" style="margin-right: 20px;"/>
-  </a>
-</p>
+<div style="display: flex; justify-content: center; align-items: flex-start; text-align: center; gap: 40px;">
+  <div style="margin: 20px;">
+    <a href="https://txpipe.io/">
+      <img src="/src/txpipe.webp" alt="TxPipe" width="100"/>
+    </a>
+    <h3 style="margin: 10px 0 0;"><a href="https://txpipe.io/" style="text-decoration: none; color: inherit;">TxPipe</a></h3>
+  </div>
+  <div style="margin: 20px;">
+    <a href="https://coinecta.fi/">
+      <img src="/src/coinecta.webp" alt="Coinecta" width="70"/>
+    </a>
+    <h3 style="margin: 10px 0 0;"><a href="https://coinecta.fi/" style="text-decoration: none; color: inherit;">Coinecta</a></h3>
+  </div>
+  <div style="margin: 20px;">
+    <a href="https://beta.crashr.io/about">
+      <img src="/src/crashr-v2.svg" alt="Crashr" width="65"/>
+    </a>
+    <h3 style="margin: 10px 0 0;"><a href="https://beta.crashr.io/about" style="text-decoration: none; color: inherit;">Crashr</a></h3>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
