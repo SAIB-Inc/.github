@@ -22,3 +22,10 @@ Our goal: To leverage technology in crafting transformative solutions that drive
 - [Twitter](https://twitter.com/saibdev)
 - [Facebook](https://www.facebook.com/saibllc)
 
+## Building with
+
+- [TxPipe](https://txpipe.io/)
+- [UTxoRPC](https://utxorpc.org/)
+- [Demeter](https://demeter.run/)
+- [Coinecta](https://coinecta.fi/)
+- [Crashr](https://beta.crashr.io/about)
