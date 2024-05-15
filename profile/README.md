@@ -24,10 +24,19 @@ Our goal: To leverage technology in crafting transformative solutions that drive
 
 ## Building with
 
-- <a href="https://txpipe.io/" target="_blank">TxPipe</a>
-- <a href="https://utxorpc.org/" target="_blank">UTxoRPC</a>
-- <a href="https://demeter.run/" target="_blank">Demeter</a>
-- <a href="https://coinecta.fi/" target="_blank">Coinecta</a>
-- <a href="https://beta.crashr.io/about" target="_blank">Crashr</a>
+<p align="center">
+  <a href="https://txpipe.io/">
+    <img src="/src/txpipe.webp" alt="TxPipe" width="100" style="margin-right: 20px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  <a href="https://coinecta.fi/">
+    <img src="/src/coinecta.webp" alt="Coinecta" width="70" style="margin-right: 20px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  
+  <a href="https://beta.crashr.io/about">
+    <img src="/src/crashr-v2.svg" alt="Crashr" width="65" style="margin-right: 20px;"/>
+  </a>
+</p>
+
 
 
