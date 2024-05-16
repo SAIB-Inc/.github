@@ -14,6 +14,7 @@ Our goal: To leverage technology in crafting transformative solutions that drive
 
 ## Contact Us
 
+- 📲 <a href="https://calendly.com/saibdev/60min" target="_blank">Book a Call </a>
 - 📧 Email: accounts@saib.dev
 - 🌐 Website: https://saib.dev
 
