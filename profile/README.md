@@ -1,13 +1,9 @@
 # SAIB Inc. - Softwarez at its Best
 <p align="center">
   <picture>
-    <source srcset="/src/SAIB-logo-white.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/SAIB_Main_Banner.png" alt="SAIB Inc." width="600">
+    <source srcset="/src/SAIB_Main_Banner.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/SAIB_Main_Banner.png" alt="SAIB Inc." width="1280">
   </picture>
-</p>
-
-<p align="center">
-  <em>🇵🇭 Philippines-based engineering firm delivering global blockchain solutions, digital platforms, and innovative software experiences</em>
 </p>
 
 <p align="center">
