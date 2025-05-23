@@ -13,16 +13,24 @@
 </p>
 
 ---
-
-## 🚀 About SAIB Inc.
-
+<picture>
+    <source srcset="/src/About_SAIB_Inc..png" media="(prefers-color-scheme: dark)">
+    <img src="/src/About_SAIB_Inc..png" alt="SAIB Inc." width="1280">
+  </picture>
+ <br></br>
+ 
 **SAIB Inc.** *(Softwarez at its Best Incorporated)* is a cutting-edge software development company based in **Cebu, Philippines**, founded by passionate developers with deep expertise in **Cardano blockchain technology** since 2017. 
 
 **Our Mission**: To boost Cardano adoption through education, technical innovation, and building next-generation blockchain solutions - including our ambitious goal to develop voting systems for the Philippine Government using Cardano technologies.
 
 We specialize in transforming innovative ideas into robust, scalable digital solutions that drive business success globally.
 
-## 💼 What We Build
+## 
+<picture>
+    <source srcset="/src/What_We_Build.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/What_We_Build.png" alt="SAIB Inc." width="1280">
+  </picture>
+ <br></br>
 
 ### **Full-Stack Development**
 - **🌐 Frontend Development**: Stunning, intuitive web experiences that captivate users
