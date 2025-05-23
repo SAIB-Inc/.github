@@ -76,37 +76,12 @@ Revolutionary framework designed to:
 
 ## 🏆 Cardano Ecosystem Leadership
 
-<div align="center">
-
 ### 🌟 **Pioneering Cardano Development in Southeast Asia**
 
-<table align="center" style="border: none;">
-<tr>
-<td align="center" style="border: none; padding: 20px;">
-
-**🎯 Mission**  
-*Boost Cardano adoption through education and technical innovation*
-
-</td>
-<td align="center" style="border: none; padding: 20px;">
-
-**🏛️ Vision**  
-*Develop blockchain voting systems for Philippine Government*
-
-</td>
-<td align="center" style="border: none; padding: 20px;">
-
-**📅 Since 2017**  
-*Building the future of blockchain development*
-
-</td>
-</tr>
-</table>
-
-**🌎 Operating ADA Philippines [ADAPH] Stake Pool**  
-*Contributing to Cardano network security and decentralization*
-
-</div>
+- **🎯 Mission**: Boost Cardano adoption through education and technical innovation
+- **🏛️ Vision**: Develop blockchain voting systems for Philippine Government  
+- **📅 Since 2017**: Building the future of blockchain development
+- **🌎 ADA Philippines [ADAPH] Stake Pool**: Contributing to Cardano network security and decentralization
 
 ---
 
@@ -133,8 +108,6 @@ Revolutionary framework designed to:
 ### 🔍 **Argus** - .NET Cardano Indexing Framework  
 > *Seamlessly connecting Cardano blockchain with .NET applications*
 
-<div align="center">
-
 | Feature | Benefit |
 |---------|---------|
 | **🔍 Efficient Querying** | Lightning-fast blockchain data processing |
@@ -142,34 +115,12 @@ Revolutionary framework designed to:
 | **🌍 Cross-Platform** | Deploy on Windows, Linux, macOS |
 | **⚙️ Customizable** | Tailored indexing for specific needs |
 
-</div>
-
 ### 🚧 **Innovation Pipeline**
 
-<div align="center">
-
-<table style="border: none;">
-<tr>
-<td align="center" style="border: none; padding: 15px;">
-<h4>🗲 Razor</h4>
-<small><em>Next-generation development tooling</em></small>
-</td>
-<td align="center" style="border: none; padding: 15px;">
-<h4>⚡ COMP</h4>
-<small><em>Advanced component library</em></small>
-</td>
-<td align="center" style="border: none; padding: 15px;">
-<h4>🚀 Futura</h4>
-<small><em>Future blockchain technologies</em></small>
-</td>
-<td align="center" style="border: none; padding: 15px;">
-<h4>📊 Buriza</h4>
-<small><em>Advanced data analytics platform</em></small>
-</td>
-</tr>
-</table>
-
-</div>
+- **🗲 Razor**: Next-generation development tooling
+- **⚡ COMP**: Advanced component library  
+- **🚀 Futura**: Future blockchain technologies
+- **📊 Buriza**: Advanced data analytics platform
 
 ## 🤝 Strategic Partnerships
 
@@ -198,54 +149,26 @@ Revolutionary framework designed to:
   </tr>
 </table>
 
-### 🏆 **Partnership Highlights**
-- **Levvy Rescue**: SAIB successfully rescued and revitalized Levvy Finance during a critical period
-- **#1 Cardano NFT Platform**: Levvy is the leading NFT lending and borrowing platform on Cardano
-- **Innovation Partnership**: Collaborating on P2P lending protocols and instant liquidity solutions
-
 ### 🌟 **Ecosystem Experience**
 - **dcSpark**
 - **Cardano Foundation**
 
 ## 📞 Get In Touch
 
-<div align="center">
-
 ### 💬 **Ready to Build Something Amazing?**
 
-<table>
-<tr>
-<td align="center">
-<a href="https://calendly.com/saibdev/60min">
-<img src="/src/call-icon.png" width="60" alt="Book a Call"><br>
-<strong>📲 Book a Call</strong><br>
-<small>Schedule a consultation</small>
-</a>
-</td>
-<td align="center">
-<a href="mailto:accounts@saib.dev">
-<img src="/src/mail-icon.png" width="60" alt="Email Us"><br>
-<strong>📧 Email Us</strong><br>
-<small>accounts@saib.dev</small>
-</a>
-</td>
-<td align="center">
-<a href="https://saib.dev">
-<strong>🌐 Visit Website</strong><br>
-<small>saib.dev</small>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
+| Contact Method | Details |
+|----------------|---------|
+| 📲 **Book a Call** | [Schedule a consultation](https://calendly.com/saibdev/60min) |
+| 📧 **Email Us** | [accounts@saib.dev](mailto:accounts@saib.dev) |
+| 🌐 **Visit Website** | [saib.dev](https://saib.dev) |
 
 ## 🌟 Follow Our Journey
 
 <div align="center">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/saibdev?style=social)](https://twitter.com/saibdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/company/saibllc/)
+[![LinkedIn Follow](https://img.shields.io/badge/follow-%40saibllc-blue?style=social&logo=linkedin)](https://www.linkedin.com/company/saibllc/)
 
 </div>
 
