@@ -139,7 +139,7 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
     </td>
     <td align="center" style="border: none;">
       <a href="https://levvy.fi/">
-        <img src="https://img.shields.io/badge/Levvy-Finance-FF6B35?style=for-the-badge&logo=cardano" alt="Levvy Finance" style="width:120px;">
+        <img src="/src/levvy_logo.png" alt="Levvy Finance" style="width:120px;">
       </a>
       <br>
       <a href="https://levvy.fi/" style="text-decoration: none; color: inherit;">
@@ -202,7 +202,7 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 
 </div>
 
----
+##
 
 <div align="center">
 <picture>
