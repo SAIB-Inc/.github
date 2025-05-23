@@ -41,7 +41,11 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 - **📋 Smart Contracts**: Trustless efficiency across various blockchain ecosystems
 - **🎯 Cardano Specialization**: Deep expertise in Cardano ecosystem development since 2017
 
-## 🔧 Our Technology & Products
+## 
+<picture>
+    <source srcset="/src/Our_Technology__Products.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/Our_Technology__Products.png" alt="SAIB Inc." width="1280">
+  </picture>
 
 ### **Why .NET + Cardano?**
 - **🚀 High Performance**: Enterprise-scale applications with optimal efficiency
@@ -49,7 +53,12 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 - **🔧 Rich Ecosystem**: Leverage LINQ, ASP.NET, Entity Framework, and modern tooling
 - **👥 Strong Community**: Backed by Microsoft and global developer community
 
-### **🌸 Chrysalis** - Core .NET Cardano Library
+### 
+<picture>
+    <source srcset="/src/Chrysalis_Subheaderv4.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/Chrysalis_Subheaderv4.png" alt="SAIB Inc." width="800">
+  </picture>
+  
 > *The foundation of Cardano development in .NET ecosystem*
 
 | Component | Purpose |
@@ -58,7 +67,12 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 | **⚡ Chrysalis.Tx** | Advanced transaction creation and management in C# |
 | **🌐 Chrysalis.Network** | Native Cardano network communication using Ouroboros protocol |
 
-### **🔍 Argus** - .NET Cardano Indexing Framework  
+###
+<picture>
+    <source srcset="/src/Argus_Subheader.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/Argus_Subheader.png" alt="SAIB Inc." width="600">
+  </picture>
+  
 > *Seamlessly connecting Cardano blockchain with .NET applications*
 
 | Feature | Benefit |
