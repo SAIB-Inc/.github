@@ -56,7 +56,7 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 ### 
 <picture>
     <source srcset="/src/Chrysalis_Subheaderv4.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/Chrysalis_Subheaderv4.png" alt="SAIB Inc." width="800">
+    <img src="/src/Chrysalis_Subheaderv4-lightmode.png" alt="SAIB Inc." width="800">
   </picture>
   
 > *The foundation of Cardano development in .NET ecosystem*
