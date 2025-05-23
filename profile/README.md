@@ -18,111 +18,60 @@
 
 ---
 
-## 🚀 About Us
+## 🚀 About SAIB Inc.
 
-**SAIB Inc.** *(Softwarez at its Best Incorporated)* is a cutting-edge software development company based in **Cebu, Philippines**, founded by passionate developers with deep expertise in **Cardano blockchain technology** since 2017. We specialize in transforming innovative ideas into robust, scalable digital solutions that drive business success globally.
+**SAIB Inc.** *(Softwarez at its Best Incorporated)* is a cutting-edge software development company based in **Cebu, Philippines**, founded by passionate developers with deep expertise in **Cardano blockchain technology** since 2017. 
 
-### 🎯 Our Mission
-To boost Cardano adoption through education, technical innovation, and building next-generation blockchain solutions - including our ambitious goal to develop voting systems for the Philippine Government using Cardano technologies.
+**Our Mission**: To boost Cardano adoption through education, technical innovation, and building next-generation blockchain solutions - including our ambitious goal to develop voting systems for the Philippine Government using Cardano technologies.
 
-## 💼 Core Services
+We specialize in transforming innovative ideas into robust, scalable digital solutions that drive business success globally.
 
-<table>
-<tr>
-<td width="50%">
+## 💼 What We Build
 
-### 🌐 **Frontend Development**
-Transforming ideas into stunning, intuitive web experiences that captivate users and drive engagement.
+### **Full-Stack Development**
+- **🌐 Frontend Development**: Stunning, intuitive web experiences that captivate users
+- **⚙️ Backend Development**: Secure, efficient, and scalable server solutions for enterprise performance
+- **🛠️ Software Innovation**: Bespoke solutions that drive growth and solve complex business challenges
 
-### ⚙️ **Backend Development** 
-Powering platforms with secure, efficient, and scalable server solutions built for enterprise-grade performance.
+### **Blockchain Expertise** 
+- **🔗 Blockchain Applications**: Decentralized, transparent, and secure applications
+- **📋 Smart Contracts**: Trustless efficiency across various blockchain ecosystems
+- **🎯 Cardano Specialization**: Deep expertise in Cardano ecosystem development since 2017
 
-</td>
-<td width="50%">
+## 🔧 Our Technology & Products
 
-### 🔗 **Blockchain Technology**
-Leveraging cutting-edge blockchain technology to deliver decentralized, transparent, and secure applications.
+### **Why .NET + Cardano?**
+- **🚀 High Performance**: Enterprise-scale applications with optimal efficiency
+- **🌍 Cross-Platform**: Deploy on Windows, Linux, macOS with .NET versatility  
+- **🔧 Rich Ecosystem**: Leverage LINQ, ASP.NET, Entity Framework, and modern tooling
+- **👥 Strong Community**: Backed by Microsoft and global developer community
 
-### 📋 **Smart Contracts**
-Creating decentralized smart contracts for secure, trustless efficiency across various blockchain ecosystems.
-
-</td>
-</tr>
-</table>
-
-### 🛠️ **Software Innovation**
-Developing bespoke software solutions that drive growth, enhance productivity, and solve complex business challenges.
-
-## 🔧 Technology Stack & Open Source Projects
-
-### 🌸 **Chrysalis** - .NET Cardano Development Library
-Our flagship open-source project enabling seamless Cardano integration with .NET ecosystem:
-
-- **Chrysalis.CBOR**: Serialization/deserialization of Cardano data structures
-- **Chrysalis.Tx**: Advanced transaction creation and management in C#
-- **Chrysalis.Network**: Cardano network communication using Ouroboros protocol
-
-### 🔍 **Argus** - .NET Cardano Indexing Framework
-Revolutionary framework designed to:
-- Seamlessly connect Cardano blockchain with .NET applications
-- Provide efficient blockchain data processing capabilities
-- Enable developers to query Cardano data using familiar .NET languages
-
-### ⚡ **Why .NET?**
-- **High Performance**: Optimized for enterprise-scale applications
-- **Cross-Platform**: Deploy anywhere with .NET's versatility
-- **Rich Ecosystem**: Leverage powerful tools like LINQ, ASP.NET, Entity Framework
-- **Strong Community**: Backed by Microsoft and global developer community
-
-## 🏆 Cardano Ecosystem Leadership
-
-### 🌟 **Pioneering Cardano Development in Southeast Asia**
-
-- **🎯 Mission**: Boost Cardano adoption through education and technical innovation
-- **🏛️ Vision**: Develop blockchain voting systems for Philippine Government  
-- **📅 Since 2017**: Building the future of blockchain development
-- **🌎 ADA Philippines [ADAPH] Stake Pool**: Contributing to Cardano network security and decentralization
-
----
-
-## 🛠️ Our Products & Projects
-
-### 🌸 **Chrysalis** - Core .NET Cardano Library
+### **🌸 Chrysalis** - Core .NET Cardano Library
 > *The foundation of Cardano development in .NET ecosystem*
 
-<table>
-<tr>
-<td width="30%"><strong>📦 Chrysalis.CBOR</strong></td>
-<td>Efficient serialization/deserialization of Cardano data structures</td>
-</tr>
-<tr>
-<td width="30%"><strong>⚡ Chrysalis.Tx</strong></td>
-<td>Advanced transaction creation and management in C#</td>
-</tr>
-<tr>
-<td width="30%"><strong>🌐 Chrysalis.Network</strong></td>
-<td>Native Cardano network communication using Ouroboros protocol</td>
-</tr>
-</table>
+| Component | Purpose |
+|-----------|---------|
+| **📦 Chrysalis.CBOR** | Efficient serialization/deserialization of Cardano data structures |
+| **⚡ Chrysalis.Tx** | Advanced transaction creation and management in C# |
+| **🌐 Chrysalis.Network** | Native Cardano network communication using Ouroboros protocol |
 
-### 🔍 **Argus** - .NET Cardano Indexing Framework  
+### **🔍 Argus** - .NET Cardano Indexing Framework  
 > *Seamlessly connecting Cardano blockchain with .NET applications*
 
 | Feature | Benefit |
 |---------|---------|
 | **🔍 Efficient Querying** | Lightning-fast blockchain data processing |
 | **🎯 Native Integration** | Full support for C#, F#, VB.NET |
-| **🌍 Cross-Platform** | Deploy on Windows, Linux, macOS |
+| **🌍 Cross-Platform** | Deploy anywhere .NET runs |
 | **⚙️ Customizable** | Tailored indexing for specific needs |
 
-### 🚧 **Innovation Pipeline**
-
+### **🚧 Innovation Pipeline**
 - **🗲 Razor**: Next-generation development tooling
 - **⚡ COMP**: Advanced component library  
 - **🚀 Futura**: Future blockchain technologies
 - **📊 Buriza**: Advanced data analytics platform
 
-## 🤝 Strategic Partnerships
+## 🤝 Trusted Partners
 
 <table align="center" style="border-collapse: separate; border-spacing: 40px; border: none;">
   <tr>
@@ -149,11 +98,13 @@ Revolutionary framework designed to:
   </tr>
 </table>
 
-### 🌟 **Ecosystem Experience**
-- **dcSpark**
-- **Cardano Foundation**
+**Ecosystem Experience:**
+- dcSpark
+- Cardano Foundation
 
-## 📞 Get In Touch
+## 📞 Connect With Us
+
+<div align="center">
 
 ### 💬 **Ready to Build Something Amazing?**
 
@@ -163,9 +114,7 @@ Revolutionary framework designed to:
 | 📧 **Email Us** | [accounts@saib.dev](mailto:accounts@saib.dev) |
 | 🌐 **Visit Website** | [saib.dev](https://saib.dev) |
 
-## 🌟 Follow Our Journey
-
-<div align="center">
+### 🌟 **Follow Our Journey**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/saibdev?style=social)](https://twitter.com/saibdev)
 [![LinkedIn Follow](https://img.shields.io/badge/follow-%40saibllc-blue?style=social&logo=linkedin)](https://www.linkedin.com/company/saibllc/)
@@ -178,31 +127,3 @@ Revolutionary framework designed to:
 <h3>🚀 "We are Softwarez, at its Best" 🚀</h3>
 <p><em>Transforming the future through innovative blockchain solutions and cutting-edge software development</em></p>
 </div>
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
