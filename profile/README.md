@@ -129,9 +129,9 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 
   <a href="https://txpipe.io/" style="text-decoration: none; color: inherit; display:inline-block;">
     <picture>
-      <source srcset="/src/TxPipedarkmode.png" media="(prefers-color-scheme: dark)">
-      <source srcset="/src/TxPipelightmode.png" media="(prefers-color-scheme: light)">
-      <img src="/src/TxPipedarkmode.png" alt="txpipe" width="250">
+      <source srcset="/src/TxPipe_darkmode.png" media="(prefers-color-scheme: dark)">
+      <source srcset="/src/TxPipe_lightmode.png" media="(prefers-color-scheme: light)">
+      <img src="/src/TxPipe_darkmode.png" alt="txpipe" width="250">
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
