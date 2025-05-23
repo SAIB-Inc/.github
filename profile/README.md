@@ -79,55 +79,92 @@ Revolutionary framework designed to:
 <div align="center">
 
 ### 🌟 **Pioneering Cardano Development in Southeast Asia**
-*Leading .NET integration with Cardano blockchain since 2017*
 
-🎯 **Mission**: Boost Cardano adoption through education and technical solutions  
-🏛️ **Vision**: Develop blockchain voting systems for Philippine Government  
-📅 **Since**: 2017 - Building the future of blockchain development
+<table align="center" style="border: none;">
+<tr>
+<td align="center" style="border: none; padding: 20px;">
+
+**🎯 Mission**  
+*Boost Cardano adoption through education and technical innovation*
+
+</td>
+<td align="center" style="border: none; padding: 20px;">
+
+**🏛️ Vision**  
+*Develop blockchain voting systems for Philippine Government*
+
+</td>
+<td align="center" style="border: none; padding: 20px;">
+
+**📅 Since 2017**  
+*Building the future of blockchain development*
+
+</td>
+</tr>
+</table>
+
+**🌎 Operating ADA Philippines [ADAPH] Stake Pool**  
+*Contributing to Cardano network security and decentralization*
 
 </div>
 
+---
+
 ## 🛠️ Our Products & Projects
+
+### 🌸 **Chrysalis** - Core .NET Cardano Library
+> *The foundation of Cardano development in .NET ecosystem*
+
+<table>
+<tr>
+<td width="30%"><strong>📦 Chrysalis.CBOR</strong></td>
+<td>Efficient serialization/deserialization of Cardano data structures</td>
+</tr>
+<tr>
+<td width="30%"><strong>⚡ Chrysalis.Tx</strong></td>
+<td>Advanced transaction creation and management in C#</td>
+</tr>
+<tr>
+<td width="30%"><strong>🌐 Chrysalis.Network</strong></td>
+<td>Native Cardano network communication using Ouroboros protocol</td>
+</tr>
+</table>
+
+### 🔍 **Argus** - .NET Cardano Indexing Framework  
+> *Seamlessly connecting Cardano blockchain with .NET applications*
 
 <div align="center">
 
-### 🌸 **Chrysalis** - Core .NET Cardano Library
-*The foundation of Cardano development in .NET ecosystem*
+| Feature | Benefit |
+|---------|---------|
+| **🔍 Efficient Querying** | Lightning-fast blockchain data processing |
+| **🎯 Native Integration** | Full support for C#, F#, VB.NET |
+| **🌍 Cross-Platform** | Deploy on Windows, Linux, macOS |
+| **⚙️ Customizable** | Tailored indexing for specific needs |
 
-| Component | Description |
-|-----------|-------------|
-| **Chrysalis.CBOR** | Data serialization/deserialization for Cardano structures |
-| **Chrysalis.Tx** | Advanced transaction creation and management |
-| **Chrysalis.Network** | Native Cardano network communication |
+</div>
 
-### 🔍 **Argus** - .NET Cardano Indexing Framework
-*Connect Cardano and .NET for fast, productive development*
+### 🚧 **Innovation Pipeline**
 
-🚀 **Features:**
-- Efficient blockchain data querying
-- Native .NET integration (C#, F#, VB.NET)
-- Cross-platform development support
-- Customizable indexing solutions
+<div align="center">
 
-### 🚧 **Active Projects**
-
-<table align="center">
+<table style="border: none;">
 <tr>
-<td align="center" width="25%">
-<strong>🗲 Razor</strong><br>
-<small>Next-gen tooling</small>
+<td align="center" style="border: none; padding: 15px;">
+<h4>🗲 Razor</h4>
+<small><em>Next-generation development tooling</em></small>
 </td>
-<td align="center" width="25%">
-<strong>⚡ COMP</strong><br>
-<small>Advanced components</small>
+<td align="center" style="border: none; padding: 15px;">
+<h4>⚡ COMP</h4>
+<small><em>Advanced component library</em></small>
 </td>
-<td align="center" width="25%">
-<strong>🚀 Futura</strong><br>
-<small>Future blockchain tech</small>
+<td align="center" style="border: none; padding: 15px;">
+<h4>🚀 Futura</h4>
+<small><em>Future blockchain technologies</em></small>
 </td>
-<td align="center" width="25%">
-<strong>📊 Buriza</strong><br>
-<small>Data analytics</small>
+<td align="center" style="border: none; padding: 15px;">
+<h4>📊 Buriza</h4>
+<small><em>Advanced data analytics platform</em></small>
 </td>
 </tr>
 </table>
@@ -208,7 +245,7 @@ Revolutionary framework designed to:
 <div align="center">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/saibdev?style=social)](https://twitter.com/saibdev)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=social&logo=facebook)](https://www.facebook.com/saibllc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/company/saibllc/)
 
 </div>
 
