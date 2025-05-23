@@ -125,31 +125,26 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 
 ###
 
-<table align="center" style="border-collapse: separate; border-spacing: 40px; border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://txpipe.io/">
-        <img src="/src/txpipe.webp" alt="TxPipe" style="width:120px;">
-      </a>
-      <br>
-      <a href="https://txpipe.io/" style="text-decoration: none; color: inherit;">
-        <strong>TxPipe</strong><br>
-        <small>Blockchain Infrastructure</small>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://levvy.fi/">
-        <img src="/src/levvy_logo.png" alt="Levvy Finance" style="width:120px;">
-      </a>
-      <br>
-      <a href="https://levvy.fi/" style="text-decoration: none; color: inherit;">
-        <strong>Levvy Finance</strong><br>
-        <small>NFT Lending Protocol</small>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+  <a href="https://txpipe.io/" style="text-decoration: none; color: inherit; display:inline-block;">
+    <picture>
+      <source srcset="/src/TxPipedarkmode.png" media="(prefers-color-scheme: dark)">
+      <source srcset="/src/TxPipelightmode.png" media="(prefers-color-scheme: light)">
+      <img src="/src/TxPipedarkmode.png" alt="txpipe" width="250">
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://levvy.fi/" style="text-decoration: none; color: inherit; display:inline-block;">
+    <picture>
+      <source srcset="/src/Levvydarkmode.png" media="(prefers-color-scheme: dark)">
+      <source srcset="/src/Levvylightmode.png" media="(prefers-color-scheme: light)">
+      <img src="/src/Levvydarkmode.png" alt="levvy finance" width="250">
+    </picture>
+  </a>
+
+</div>
+  
 ## 
 <picture>
     <source srcset="/src/Ecosystem_Experience.png" media="(prefers-color-scheme: dark)">
@@ -187,7 +182,7 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 
 <div align="center">
 
-### 💬 **Ready to Build Something Amazing?**
+### **Ready to Build Something Amazing?**
 
 | Contact Method | Details |
 |----------------|---------|
@@ -195,7 +190,7 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 | 📧 **Email Us** | [accounts@saib.dev](mailto:accounts@saib.dev) |
 | 🌐 **Visit Website** | [saib.dev](https://saib.dev) |
 
-### 🌟 **Follow Our Journey**
+### **Follow Our Journey**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/saibdev?style=social)](https://twitter.com/saibdev)
 [![LinkedIn Follow](https://img.shields.io/badge/follow-%40saibllc-blue?style=social&logo=linkedin)](https://www.linkedin.com/company/saibllc/)
