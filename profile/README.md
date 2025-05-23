@@ -2,7 +2,7 @@
 <p align="center">
   <picture>
     <source srcset="/src/SAIB-logo-white.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/SAIB-logo-dark.png" alt="SAIB Inc." width="600">
+    <img src="/src/SAIB_Main_Banner.png" alt="SAIB Inc." width="600">
   </picture>
 </p>
 
