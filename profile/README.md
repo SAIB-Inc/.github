@@ -1,8 +1,9 @@
 
 <p align="center">
   <picture>
-    <source srcset="/src/SAIB_Main_Banner.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/SAIB_Main_Banner.png" alt="SAIB Inc." width="1280">
+    <source srcset="/src/SAIB_Main_Banner_Dark_Mode.png" media="(prefers-color-scheme: dark)">
+    <source srcset="/src/SAIB_Main_Banner_Light_Mode.png" media="(prefers-color-scheme: light)">
+    <img src="/src/SAIB_Main_Banner_Dark_Mode.png" alt="SAIB Inc." width="1280">
   </picture>
 </p>
 
