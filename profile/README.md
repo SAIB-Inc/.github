@@ -161,18 +161,20 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 
 <div align="center">
 
-<a href="https://dcspark.io/" style="text-decoration: none; color: inherit; display:inline-block;">
-  <picture>
-    <source srcset="/src/dcspark.png" media="(prefers-color-scheme: dark)">
-    <source srcset="/src/dcspark-lightmode.png" media="(prefers-color-scheme: light)">
-    <img src="/src/dcspark.png" alt="dcspark" width="250">
-  </picture>
-</a><span style="display:inline-block; width:40px;"></span><a href="https://cardanofoundation.org/" style="text-decoration: none; color: inherit; display:inline-block;">
-  <picture>
-    <source srcset="/src/cardano-foundation.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/cardano-foundation.png" alt="cardano foundation" width="250">
-  </picture>
-</a>
+  <a href="https://dcspark.io/" style="text-decoration: none; color: inherit; display:inline-block;">
+    <picture>
+      <source srcset="/src/dcspark.png" media="(prefers-color-scheme: dark)">
+      <source srcset="/src/dcspark-lightmode.png" media="(prefers-color-scheme: light)">
+      <img src="/src/dcspark.png" alt="dcspark" width="250">
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://cardanofoundation.org/" style="text-decoration: none; color: inherit; display:inline-block;">
+    <picture>
+      <source srcset="/src/cardano-foundation.png" media="(prefers-color-scheme: dark)">
+      <img src="/src/cardano-foundation.png" alt="cardano foundation" width="250">
+    </picture>
+  </a>
 
 </div>
 
