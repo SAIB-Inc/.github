@@ -1,4 +1,4 @@
-# SAIB Inc. - Softwarez at its Best
+
 <p align="center">
   <picture>
     <source srcset="/src/SAIB_Main_Banner.png" media="(prefers-color-scheme: dark)">
@@ -12,7 +12,7 @@
   <a href="https://twitter.com/saibdev"><img src="https://img.shields.io/badge/Twitter-@saibdev-1DA1F2?style=for-the-badge&logo=twitter"></a>
 </p>
 
----
+##
 <picture>
     <source srcset="/src/About_SAIB_Inc..png" media="(prefers-color-scheme: dark)">
     <img src="/src/About_SAIB_Inc..png" alt="SAIB Inc." width="1280">
