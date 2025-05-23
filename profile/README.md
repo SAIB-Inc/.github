@@ -70,8 +70,9 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 
 ###
 <picture>
-    <source srcset="/src/Argus_Subheader.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/Argus_Subheader.png" alt="SAIB Inc." width="600">
+    <source srcset="/src/Argus_Subheaderv2.png" media="(prefers-color-scheme: dark)">
+    <source srcset="/src/Argus_Subheaderv2-lightmode.png" media="(prefers-color-scheme: light)">
+    <img src="/src/Argus_Subheaderv2.png" alt="SAIB Inc." width="800">
   </picture>
   
 > *Seamlessly connecting Cardano blockchain with .NET applications*
@@ -83,13 +84,46 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 | **🌍 Cross-Platform** | Deploy anywhere .NET runs |
 | **⚙️ Customizable** | Tailored indexing for specific needs |
 
-### **🚧 Innovation Pipeline**
-- **🗲 Razor**: Next-generation development tooling
-- **⚡ COMP**: Advanced component library  
-- **🚀 Futura**: Future blockchain technologies
-- **📊 Buriza**: Advanced data analytics platform
+### 
+  <picture>
+    <source srcset="/src/Innovation_Pipeline.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/Innovation_Pipeline.png" alt="SAIB Inc." width="1280">
+  </picture>
 
-## 🤝 Trusted Partners
+###
+
+<picture>
+    <source srcset="/src/Razor_Subheaderv2.png" media="(prefers-color-scheme: dark)">
+    <source srcset="/src/Razor_Subheaderv2-lightmode.png" media="(prefers-color-scheme: light)">
+    <img src="/src/Razor_Subheaderv2.png" alt="SAIB Inc." width="600">
+  </picture>
+  
+
+<picture>
+    <source srcset="/src/COMP_Subheaderv2.png" media="(prefers-color-scheme: dark)">
+    <source srcset="/src/COMP_Subheaderv2-lightmode.png" media="(prefers-color-scheme: light)">
+    <img src="/src/COMP_Subheaderv2.png" alt="SAIB Inc." width="600">
+  </picture>
+  
+<picture>
+    <source srcset="/src/Futura_Subheaderv2.png" media="(prefers-color-scheme: dark)">
+    <source srcset="/src/Futura_Subheaderv2-lightmode.png" media="(prefers-color-scheme: light)">
+    <img src="/src/Futura_Subheaderv2.png" alt="SAIB Inc." width="600">
+  </picture>
+  
+<picture>
+    <source srcset="/src/Buriza_Subheaderv2.png" media="(prefers-color-scheme: dark)">
+    <source srcset="/src/Buriza_Subheaderv2-lightmode.png" media="(prefers-color-scheme: light)">
+    <img src="/src/Buriza_Subheaderv2.png" alt="SAIB Inc." width="600">
+  </picture>
+
+## 
+<picture>
+    <source srcset="/src/Trusted_Partners.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/Trusted_Partners.png" alt="SAIB Inc." width="1280">
+  </picture>
+
+###
 
 <table align="center" style="border-collapse: separate; border-spacing: 40px; border: none;">
   <tr>
@@ -120,7 +154,12 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 - dcSpark
 - Cardano Foundation
 
-## 📞 Connect With Us
+##
+
+<picture>
+    <source srcset="/src/Connect_With_Us.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/Connect_With_Us.png" alt="SAIB Inc." width="1280">
+  </picture>
 
 <div align="center">
 
