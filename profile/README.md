@@ -150,9 +150,31 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
   </tr>
 </table>
 
-**Ecosystem Experience:**
-- dcSpark
-- Cardano Foundation
+## 
+<picture>
+    <source srcset="/src/Ecosystem_Experience.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/Ecosystem_Experience.png" alt="SAIB Inc." width="1280">
+  </picture>
+  
+###
+
+
+<div align="center">
+
+<a href="https://dcspark.io/" style="text-decoration: none; color: inherit; display:inline-block;">
+  <picture>
+    <source srcset="/src/dcspark.png" media="(prefers-color-scheme: dark)">
+    <source srcset="/src/dcspark-lightmode.png" media="(prefers-color-scheme: light)">
+    <img src="/src/dcspark.png" alt="dcspark" width="250">
+  </picture>
+</a><span style="display:inline-block; width:40px;"></span><a href="https://cardanofoundation.org/" style="text-decoration: none; color: inherit; display:inline-block;">
+  <picture>
+    <source srcset="/src/cardano-foundation.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/cardano-foundation.png" alt="cardano foundation" width="250">
+  </picture>
+</a>
+
+</div>
 
 ##
 
@@ -181,6 +203,8 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 ---
 
 <div align="center">
-<h3>🚀 "We are Softwarez, at its Best" 🚀</h3>
-<p><em>Transforming the future through innovative blockchain solutions and cutting-edge software development</em></p>
+<picture>
+    <source srcset="/src/SAIB_Footerv2.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/SAIB_Footerv2.png" alt="SAIB Inc." width="1280">
+  </picture>
 </div>
