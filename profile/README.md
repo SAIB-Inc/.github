@@ -201,8 +201,9 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 ##
 
 <div align="center">
-<picture>
-    <source srcset="/src/SAIB_Footerv2.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/SAIB_Footerv2.png" alt="SAIB Inc." width="1280">
+  <picture>
+    <source srcset="/src/SAIB_Footer_Dark_Mode.png" media="(prefers-color-scheme: dark)">
+    <source srcset="/src/SAIB_Footer_Light_Mode.png" media="(prefers-color-scheme: light)">
+    <img src="/src/SAIB_Footer_Dark_Mode.png" alt="SAIB Inc." width="1280">
   </picture>
 </div>
