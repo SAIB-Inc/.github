@@ -15,8 +15,8 @@
 
 ##
 <picture>
-    <source srcset="/src/About_SAIB_Inc..png" media="(prefers-color-scheme: dark)">
-    <img src="/src/About_SAIB_Inc..png" alt="SAIB Inc." width="1280">
+    <source srcset="/src/02-_About_SAIB_Inc..png" media="(prefers-color-scheme: dark)">
+    <img src="/src/02-_About_SAIB_Inc..png" alt="SAIB Inc." width="1280">
   </picture>
 
 ### 
@@ -28,8 +28,8 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 
 ## 
 <picture>
-    <source srcset="/src/What_We_Build.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/What_We_Build.png" alt="SAIB Inc." width="1280">
+    <source srcset="/src/03-_What_We_Build.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/03-_What_We_Build.png" alt="SAIB Inc." width="1280">
   </picture>
 
 ### **Full-Stack Development**
@@ -44,8 +44,8 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 
 ## 
 <picture>
-    <source srcset="/src/Our_Technology__Products.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/Our_Technology__Products.png" alt="SAIB Inc." width="1280">
+    <source srcset="/src/04-_Our_Technology__Products.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/04-_Our_Technology__Products.png" alt="SAIB Inc." width="1280">
   </picture>
 
 ### **Why .NET + Cardano?**
@@ -87,8 +87,8 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 
 ### 
   <picture>
-    <source srcset="/src/Innovation_Pipeline.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/Innovation_Pipeline.png" alt="SAIB Inc." width="1280">
+    <source srcset="/src/07-_Innovation_Pipeline.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/07-_Innovation_Pipeline.png" alt="SAIB Inc." width="1280">
   </picture>
 
 ###
@@ -120,8 +120,8 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 
 ## 
 <picture>
-    <source srcset="/src/Trusted_Partners.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/Trusted_Partners.png" alt="SAIB Inc." width="1280">
+    <source srcset="/src/05-_Trusted_Partners.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/05-_Trusted_Partners.png" alt="SAIB Inc." width="1280">
   </picture>
 
 ###
@@ -148,8 +148,8 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
   
 ## 
 <picture>
-    <source srcset="/src/Ecosystem_Experience.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/Ecosystem_Experience.png" alt="SAIB Inc." width="1280">
+    <source srcset="/src/08-_Ecosystem_Experience.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/08-_Ecosystem_Experience.png" alt="SAIB Inc." width="1280">
   </picture>
   
 ###
@@ -177,8 +177,8 @@ We specialize in transforming innovative ideas into robust, scalable digital sol
 ##
 
 <picture>
-    <source srcset="/src/Connect_With_Us.png" media="(prefers-color-scheme: dark)">
-    <img src="/src/Connect_With_Us.png" alt="SAIB Inc." width="1280">
+    <source srcset="/src/06-_Connect_With_Us.png" media="(prefers-color-scheme: dark)">
+    <img src="/src/06-_Connect_With_Us.png" alt="SAIB Inc." width="1280">
   </picture>
 
 <div align="center">
